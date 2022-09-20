@@ -33,6 +33,9 @@ body{
 .nav-link active{
     color: white;
 }
+.carousel-inner{
+    height: 500px;
+}
 h2{
     background-color: green;
 }
